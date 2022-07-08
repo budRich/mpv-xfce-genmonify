@@ -18,3 +18,7 @@ Setting up the genmonify thing:
 - add the line `modules[media]=ID` to `~/.config/genmonify/module-list`
 
 ![mpv-genmonify](https://user-images.githubusercontent.com/2143465/178037044-d78487f3-2c96-4478-b199-22048021def7.png)
+
+[xfce4-panel]: https://docs.xfce.org/xfce/xfce4-panel/start
+[genmon]: https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start
+[genmonify]: https://github.com/budlabs/genmonify
