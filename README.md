@@ -17,4 +17,4 @@ Setting up the genmonify thing:
 - find the *internal xfce-panel ID* for the genmon instance (`genmonify --list`)
 - add the line `modules[media]=ID` to `~/.config/genmonify/module-list`
 
-
+![mpv-genmonify](https://user-images.githubusercontent.com/2143465/178037044-d78487f3-2c96-4478-b199-22048021def7.png)
