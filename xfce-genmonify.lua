@@ -81,7 +81,7 @@ function on_file_loaded(event)
     loaded_file = os.capture('readlink -f "' .. mp.get_property("path") .. '"')
   end
 
-  title     = loaded_file:match("[/]([^/.]+)[^/]*$")
+  title     = loaded_file:match("[/]([^/]+)[.][^.]+$")
   last_time = get_time()
 
   genmonify_update()
